@@ -10,7 +10,7 @@ int main(void)
 {
 char low;
 for(low ='a'; low <= 'z'; low++)
-putchat(low);
-printf("\n")
+putchar(low);
+printf("\n");
 return (0);
 }
